@@ -172,7 +172,7 @@ $(document).ready(function () {
             if( bottom_of_window > bottom_of_object ){
 
                 $('.chart').easyPieChart({
-                    barColor: '#2b3545',  /*bar color변경하는곳*/
+                    barColor: '#0c2c61',  /*bar color변경하는곳*/
                     trackColor: '#f3f3f3',/*track color변경하는곳*/
                     scaleColor: '#fff',
                     lineCap: 'round',
